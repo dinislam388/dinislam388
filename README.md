@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mamun</h1>
+<h1 align="center">Hi 👋, I'm MD Din Islam</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmamun8&label=Profile%20views&color=0e75b6&style=flat" alt="mdmamun8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinislam388&label=Profile%20views&color=0e75b6&style=flat" alt="dinislam388" /> </p>
 
-<a  align="center" href="https://ibb.co/qdQZ02F"><img  align="center" src="https://i.ibb.co/6mCdvqJ/Blue-white-minimal-linkedin-profile-cover-image-1.png" alt="Blue-white-minimal-linkedin-profile-cover-image-1" border="0" width="100%" /></a>
+<a  align="center" href="https://ibb.co/qdQZ02F"><img  align="center" src="[https://i.ibb.co/6mCdvqJ/Blue-white-minimal-linkedin-profile-cover-image-1.png](https://ibb.co/6m37ZbM)" alt="Blue-white-minimal-linkedin-profile-cover-image-1" border="0" width="100%" /></a>
 🌱 I’m currently learning React js,JavaScript,Tailwind, Css
 
 💬 Ask me about React, JavaScript, Tailwind
