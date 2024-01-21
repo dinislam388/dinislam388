@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinislam388&label=Profile%20views&color=0e75b6&style=flat" alt="dinislam388" /> </p>
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://www.linkedin.com/in/md-din-islam-1a872a219/overlay/background-image/)"><img src="https://www.linkedin.com/in/md-din-islam-1a872a219/overlay/background-image/" alt="dinislam388" /></a> </p>
+<p align="center"> <a href="https://ibb.co/qdQZ02F"><img src="https://i.ibb.co/6mCdvqJ/Blue-white-minimal-linkedin-profile-cover-image-1.png" alt="dinislam388" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
